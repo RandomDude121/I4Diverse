@@ -7,3 +7,12 @@ c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard.Test.
 c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.csprojResolveAssemblyReference.cache
 c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.dll
 c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\CreditCard.Test.Unit.dll
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\CreditCard.Test.Unit.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\CreditCard.exe
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\CreditCard.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.dll
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard.Test.Unit\obj\Debug\CreditCard.Test.Unit.pdb

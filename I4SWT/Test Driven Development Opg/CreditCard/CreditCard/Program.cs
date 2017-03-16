@@ -10,6 +10,8 @@ namespace CreditCard
     {
         static void Main(string[] args)
         {
+            CCard bitch = new CCard("Simon", null);
+            Console.WriteLine(bitch.GetName());
         }
     }
 }

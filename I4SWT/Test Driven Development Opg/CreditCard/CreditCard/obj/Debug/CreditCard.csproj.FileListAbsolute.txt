@@ -7,3 +7,9 @@ c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\obj\D
 C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
 C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.exe
 C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.exe
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\bin\Debug\CreditCard.exe
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\simon\Desktop\IKT Skole\4. Semester\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.csprojResolveAssemblyReference.cache
