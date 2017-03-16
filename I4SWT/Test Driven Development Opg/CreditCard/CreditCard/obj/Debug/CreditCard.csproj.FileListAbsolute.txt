@@ -1,0 +1,9 @@
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\bin\Debug\CreditCard.exe
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\bin\Debug\CreditCard.pdb
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\obj\Debug\CreditCard.csprojResolveAssemblyReference.cache
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\obj\Debug\CreditCard.exe
+c:\users\henri\documents\visual studio 2015\Projects\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
+C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
+C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.exe
+C:\UniProjects\I4Diverse\I4SWT\Test Driven Development Opg\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
